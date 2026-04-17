@@ -1,0 +1,70 @@
+pichia_accession,pichia_description,cerevisiae_ortholog,cerevisiae_gene_name,cerevisiae_function
+C4R4Z8,40S ribosomal protein S12,P48589,RPS12,Small ribosomal subunit protein eS12
+C4R306,Phosphomannomutase,P07283,SEC53,Phosphomannomutase
+F2QYW3,Putative pyridoxine 4-dehydrogenase,Q06494,YPR127W,Putative pyridoxal reductase
+C4R885,NADP-dependent oxidoreductase domain-containing protein,Q06494,YPR127W,Putative pyridoxal reductase
+A0A1B2JHJ2,BA75_04358T0,P32911,SUI1,Eukaryotic translation initiation factor eIF-1
+C4R976,Translation initiation factor eIF1,P32911,SUI1,Eukaryotic translation initiation factor eIF-1
+A0A1B2JJ82,Arginase,P00812,CAR1,Arginase
+F2QSQ9,Uncharacterized protein,,,
+C4R0Z8,Uncharacterized protein,,,
+A0A1B2JAC9,Probable NADPH dehydrogenase,Q03558,OYE2,NADPH dehydrogenase 2
+C4QXK7,Transketolase,P33315,TKL2,Transketolase 2
+A0A1B2JD62,BA75_02874T0,P25377,ADH7,NADP-dependent alcohol dehydrogenase 7
+F2QTE2,Enoyl reductase (ER) domain-containing protein,P25377,ADH7,NADP-dependent alcohol dehydrogenase 7
+C4R0A4,Bifunctional enzyme with alcohol dehydrogenase and glutathione-dependent formaldehyde dehydrogenase,P32771,SFA1,S-(hydroxymethyl)glutathione dehydrogenase
+C4R4U1,"Saccharopine dehydrogenase [NADP(+), L-glutamate-forming]",P38999,LYS9,"Saccharopine dehydrogenase [NADP(+), L-glutamate-forming]"
+F2QWE1,Aldehyde reductase,Q12458,YPR1,Aldehyde reductase YPR1
+A0A1B2JFE3,BA75_03784T0,P49704,PRP31,Pre-mRNA-processing factor 31
+C4R430,"6-phosphogluconate dehydrogenase, decarboxylating",P53319,GND2,"6-phosphogluconate dehydrogenase, decarboxylating 2"
+A0A1B2JDK5,BA75_02268T0,,,
+C4R1H6,Protein that recognizes and binds damaged DNA during nucleotide excision repair,P28519,RAD14,DNA repair protein RAD14
+C4QXI3,Essential protein required for determination of budding pattern,Q12280,IQG1,Ras GTPase-activating-like protein IQG1
+A0A1B2JBP3,BA75_03297T0,P25576,POF1,Nicotinamide mononucleotide adenylyltransferase
+C4QVE1,Uncharacterized protein,P38840,ARO9,Aromatic amino acid aminotransferase 2
+F2QYG2,DNA-directed RNA polymerase III subunit RPC6,P32910,RPC34,DNA-directed RNA polymerase III subunit RPC6
+C4R872,Essential nuclear protein involved in early steps of ribosome biogenesis,Q04225,RRB1,Ribosome assembly protein RRB1
+C4R5M4,Mitochondrial intermembrane space cysteine motif protein,Q03667,MIX17,Mitochondrial intermembrane space cysteine motif-containing protein MIX17
+F2QRZ5,Homeobox transcriptional repressor,P0CY08,MATALPHA2,Mating-type protein ALPHA2
+C4R0E3,EKC/KEOPS complex subunit BUD32,P53323,BUD32,EKC/KEOPS complex subunit BUD32
+A0A1B2J5C4,BA75_00295T0,Q12125,GET4,Golgi to ER traffic protein 4
+A0A1B2J746,Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex,P16451,PDX1,"Pyruvate dehydrogenase complex protein X component, mitochondrial"
+C4QZ65,Phosphodiesterase,P22434,PDE1,"3',5'-cyclic-nucleotide phosphodiesterase 1"
+C4R9G0,26S proteasome non-ATPase regulatory particle subunit,P32496,RPN12,26S proteasome regulatory subunit RPN12
+C4R7A9,"Ribosome-recycling factor, mitochondrial",P38771,RRF1,"Ribosome-recycling factor, mitochondrial"
+A0A1B2JFD9,Protein farnesyltransferase subunit beta,P22007,RAM1,Protein farnesyltransferase subunit beta
+C4QZ12,GTP-binding protein YPT10,P38146,YPT10,GTP-binding protein YPT10
+A0A1B2J3R6,Entry not found,,,
+C4R2M5,non-specific serine/threonine protein kinase,P25333,SAT4,Serine/threonine-protein kinase HAL4/SAT4
+A0A1B2JKG2,Entry not found,,,
+C4R6S5,Vacuolar protein sorting protein,P40335,PEP8,Carboxypeptidase Y-deficient protein 8
+C4R2U4,Protein component of the large (60S) ribosomal subunit,P46990,RPL17B,Large ribosomal subunit protein uL22B
+C4R252,Phosphatidylinositol:ceramide phosphoinositol transferase (IPC synthase),P36107,AUR1,Inositol phosphorylceramide synthase catalytic subunit AUR1
+C4R774,Stress response protein NST1,P53935,NST1,Stress response protein NST1
+C4R791,Uncharacterized protein,P43556,RGD2,Rho-GTPase-activating protein RGD2
+C4QWM1,Mitochondrial inner membrane protease subunit 2,P46972,IMP2,Mitochondrial inner membrane protease subunit 2
+A0A1B2JA42,BA75_02950T0,P39113,CAT8,Regulatory protein CAT8
+C4R6K2,Arp2/3 complex 34 kDa subunit,P53731,ARC35,Actin-related protein 2/3 complex subunit 2
+C4QZP3,T-complex protein 1 subunit alpha,P12612,TCP1,T-complex protein 1 subunit alpha
+C4R248,Probable electron transfer flavoprotein subunit alpha,Q12480,AIM45,"Probable electron transfer flavoprotein subunit alpha, mitochondrial"
+C4R6J9,ATP-dependent RNA helicase,P53734,DBP6,ATP-dependent RNA helicase DBP6
+C4R938,Protein disulfide-isomerase,P17967,PDI1,Protein disulfide-isomerase
+C4QVB5,Cys-Gly metallodipeptidase DUG1,P43616,DUG1,Cys-Gly metallodipeptidase DUG1
+C4QVI1,GMP synthase [glutamine-hydrolyzing],P38625,GUA1,GMP synthase [glutamine-hydrolyzing]
+C4R5V2,26S proteasome regulatory subunit 6B homolog,P33298,RPT3,26S proteasome regulatory subunit 6B homolog
+A0A1B2JGG8,26S proteasome regulatory subunit 6B homolog,P33298,RPT3,26S proteasome regulatory subunit 6B homolog
+C4R649,Divalent metal ion transporter with a broad specificity for di-valent and tri-valent metals,Q05451,,Putative uncharacterized protein YHR050W-A
+C4QYA2,1-phosphatidylinositol 4-kinase,P39104,PIK1,Phosphatidylinositol 4-kinase PIK1
+C4R4Y0,DNA-directed RNA polymerase subunit,P04050,RPO21,DNA-directed RNA polymerase II subunit RPB1
+F2QRA3,RING-type domain-containing protein,,,
+C4R2G9,RING-type domain-containing protein,,,
+C4R1F9,Uncharacterized protein,Q12143,NSL1,Kinetochore-associated protein NSL1
+F2QSA3,Uncharacterized protein,Q12143,NSL1,Kinetochore-associated protein NSL1
+F2QSZ8,Uncharacterized protein,,,
+C4R0Q5,Uncharacterized protein,,,
+C4R0Q4,Uncharacterized protein,Q12349,ATP14,"ATP synthase subunit H, mitochondrial"
+C4R0P3,Uncharacterized protein,Q12745,SEC39,Protein transport protein SEC39
+A0A1B2J5Q9,BA75_00698T0,P53163,MNP1,Large ribosomal subunit protein bL12m
+A0A1B2JD89,BA75_02438T0,Q07418,PEX19,Peroxisomal membrane protein import receptor PEX19
+A0A1B2JJ38,BA75_04542T0,P38431,TIF5,Eukaryotic translation initiation factor 5
+A0A1B2JJB0,BA75_04877T0,,,
