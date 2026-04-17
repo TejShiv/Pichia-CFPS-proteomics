@@ -1,7 +1,6 @@
 # figure_control_proteome.py
 #
-# Shivakumar et al. — Mechanistic insights into microsomes in a
-# Pichia pastoris cell-free system
+# Shivakumar et al. — Opening the black box: proteomic and single-vesicle dissection of microsomes in a Pichia pastoris cell-free system
 #
 # Generates QC and main figures for the control condition proteomic
 # profiling (Figure 2 and associated supplementary panels).
