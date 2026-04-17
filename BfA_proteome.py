@@ -1,7 +1,6 @@
 # figure_BfA_proteome.py
 #
-# Shivakumar et al. — Mechanistic insights into microsomes in a
-# Pichia pastoris cell-free system
+# Shivakumar et al. — Opening the black box: proteomic and single-vesicle dissection of microsomes in a Pichia pastoris cell-free system
 #
 # Generates comparative proteomics figures for BfA-treated vs control
 # K. phaffii SuperMan5 cell-free lysate fractions (Figure 5).
