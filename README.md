@@ -1,5 +1,5 @@
 # Analysis Code — Shivakumar et al.
-## *Mechanistic insights into microsomes in a Pichia pastoris cell-free system*
+## *Opening the black box: proteomic and single-vesicle dissection of microsomes in a Pichia pastoris cell-free system*
 
 ---
 
