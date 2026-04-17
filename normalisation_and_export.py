@@ -1,7 +1,6 @@
 # normalisation_and_export.py
 #
-# Shivakumar et al. — Mechanistic insights into microsomes in a
-# Pichia pastoris cell-free system
+# Shivakumar et al. — Opening the black box: proteomic and single-vesicle dissection of microsomes in a Pichia pastoris cell-free system
 #
 # Applies intensity normalisation to LC-MS/MS data from
 # K. phaffii SuperMan5 cell-free lysate fractions and exports the
